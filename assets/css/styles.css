@@ -231,6 +231,7 @@ img{
     position: absolute;
     bottom: -60%;
     width: auto;
+    z-index: -1;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
@@ -450,6 +451,7 @@ img{
         position: absolute;
         bottom: -60%;
         width: auto;
+        z-index: -1;
     }
 
     .skills__container{
