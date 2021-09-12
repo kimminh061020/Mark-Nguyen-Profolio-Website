@@ -227,7 +227,10 @@ img{
     overflow: hidden;
 }
 .about__img img{
-    width: 100px;
+    height: 250px;
+    position: absolute;
+    bottom: -60%;
+    width: auto;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
