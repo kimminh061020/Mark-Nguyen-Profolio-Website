@@ -225,6 +225,7 @@ img{
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
+    position:relative; 
 }
 .about__img img{
     height: 250px;
