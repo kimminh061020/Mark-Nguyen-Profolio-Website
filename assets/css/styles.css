@@ -490,3 +490,10 @@ img{
         height: 640px;
     }
 }
+@media only screen and (device-width:768px)and (orientation:portrait){
+    .home__img{
+        width: 500px;
+        right: 0;
+        bottom: -40%;
+    }
+}
